@@ -7,7 +7,7 @@
 
 <!-- 🔭 I’m currently working on ... -->
 <ul>
-   <li>🌱 I’m currently learning <span> <img src="https://miro.medium.com/max/876/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height="30"/></span>
+  <li> I’m currently learning Flask.</li>
   <li> I know C,Python,HTML,CSS,JS,React</li>
   <!--
   - 🤔 I’m looking for help with ...
