@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Sagar Bhat, and I love coding and building projects which can help people and solve their problems. 🥲
+### My name is Sagar Bhat, and I love coding and building projects which can help people and solve their problems.
 
 <!-- **codingsagar/codingsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
