@@ -5,6 +5,6 @@
 
 
 <ul>
-  <li> I’m currently improving my Node and Express Knowledge.</li>
-  <li> I know C | Python | HTML | CSS | Tailwind CSS | SASS/SCSS | Bootsrap | JS | React | Flask | PHP </li>
+  <li> I’m currently learning Next js and AWS</li>
+  <li> I know C | Python | HTML | CSS | Tailwind CSS | SASS/SCSS | Bootsrap | JS | React | Flask | PHP | Node | Express</li>
 </ul>
