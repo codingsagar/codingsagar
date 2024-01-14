@@ -7,7 +7,7 @@
 
 2️⃣ I’m currently learning Cloud Computing and React Native📝
 
-3️⃣ Ask me about TS | JS | HTML | CSS | TAILWIND CSS | REACT.JS | NEXT.JS | NODE JS | EXPRESS | FIREBASE | SUPABASE | MONGO DB | SQL
+3️⃣ Ask me about TS | JS | HTML CSS | TAILWIND CSS | REACT.JS | NEXT.JS | NODE JS | EXPRESS | FIREBASE | MONGO DB | SQL
 
 4️⃣ Checkout more at my portfolio : https://codingsagar.netlify.app/
 
