@@ -5,7 +5,7 @@
 
 1️⃣ I am currently building Twitter Clone using Next.js,Supabase and Tailwind CSS 🚀
 
-2️⃣ I’m currently learning Cloud Computing and React Native📝
+2️⃣ I’m currently learning Cloud Computing and DevOps 📝
 
 3️⃣ Ask me about TS | JS | HTML CSS | TAILWIND CSS | REACT.JS | NEXT.JS | NODE JS | EXPRESS | FIREBASE | MONGO DB | SQL
 
