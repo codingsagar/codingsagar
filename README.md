@@ -3,7 +3,7 @@
 **I develop some projects and sometimes I break them.** 🤣🚀🐞💀
 
 
-1️⃣ I am currently building Youtube Downloader using Flask, Azure Cloud, HTML and CSS & JS🚀
+1️⃣ I am currently building Youtube Downloader using Flask, Azure Cloud, React JS and Tailwind CSS🚀
 
 2️⃣ I’m currently learning Django 📝
 
