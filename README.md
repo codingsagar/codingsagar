@@ -3,11 +3,11 @@
 **I develop some projects and sometimes I break them.** 🤣🚀🐞💀
 
 
-1️⃣ I am currently building Twitter Clone using Next.js,Supabase and Tailwind CSS 🚀
+1️⃣ I am currently building Youtube Downloader using Flask, Azure Cloud, HTML and CSS & JS🚀
 
-2️⃣ I’m currently learning Cloud Computing and Native Android Development 📝
+2️⃣ I’m currently learning Django 📝
 
-3️⃣ Ask me about TS | JS | HTML CSS | TAILWIND CSS | REACT.JS | NEXT.JS | NODE JS | EXPRESS | FIREBASE | MONGO DB | SQL
+3️⃣ Ask me about TS | JS | HTML CSS | TAILWIND CSS | REACT.JS | NEXT.JS | NODE JS | EXPRESS | FIREBASE | MONGO DB | SQL | PYTHON
 
 4️⃣ Checkout more at my portfolio : https://codingsagar.netlify.app/
 
@@ -17,14 +17,13 @@
 
 
 📕 **Read my latest blogs** 
-
+- [What is a Webhook 🕸️🪝 ?](https://codingsagar.hashnode.dev/what-is-a-webhook)
 - [Best Explanation for Callback Functions 📲 ft Event Listeners](https://codingsagar.hashnode.dev/best-explanation-for-callback-functions-ft-event-listeners-bonus-interview-question)
 - [Understanding React Native File Structure Quickly](https://codingsagar.hashnode.dev/react-native-file-structure)
 
 🔗 **Connect with me**
 
  <a href="https://twitter.com/codingsagar" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingsagar" height="30" width="40" /></a>
- <a href="https://instagram.com/codingsagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingsagar" height="30" width="40" /></a>
 
  ### ✨ About me
 
